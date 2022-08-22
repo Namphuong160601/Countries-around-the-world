@@ -1,0 +1,106 @@
+p{
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    color: #940000; 
+    background-color: #E0E0E0;  
+    text-decoration: none;
+   
+}
+div{
+    margin-bottom: 15px;
+    padding: 4px 12px;
+    width:180px; 
+    max-width:180px;
+  }
+  
+  .chaua{
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+  }
+  
+  .chauau{
+    background-color: #ddffdd;
+    border-left: 6px solid #04AA6D;
+  }
+  
+  .chaudaiduong {
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+  }
+  
+
+  .chaumy {
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+  }
+  .chaunamcuc {
+    background-color: #cce0ff;
+    border-left: 6px solid #5a0722;
+  }
+  .chauphi {
+    background-color: #ccfff9;
+    border-left: 6px solid #4e5a07;
+  }
+
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: center;
+      background-color: #04AA6D;
+      color: white;
+  }
+  #image{
+     display: block;
+     width: 338px;
+     height: 225px;
+     align-items: center;
+     margin-left: auto;
+     margin-right: auto;  
+  }
+  #customers ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    display: table;
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .block:hover {
+    background-color: #ddd;
+    color: black;
+  }
